@@ -1,0 +1,49 @@
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\bin\Debug\Projecto.exe.config
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\bin\Debug\Projecto.exe
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\bin\Debug\Projecto.pdb
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\bin\Debug\Projecto.xml
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.vbproj.AssemblyReference.cache
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.Resources.resources
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.vbproj.GenerateResource.cache
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.vbproj.CoreCompileInputs.cache
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.exe
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.xml
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.pdb
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.CartForm.resources
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.MainMenu.resources
+C:\Users\Xander Avila\source\repos\Projecto\bin\Debug\Inventory_Store.accdb
+C:\Users\Xander Avila\source\repos\Projecto\bin\Debug\Projecto.exe.config
+C:\Users\Xander Avila\source\repos\Projecto\bin\Debug\Projecto.exe
+C:\Users\Xander Avila\source\repos\Projecto\bin\Debug\Projecto.pdb
+C:\Users\Xander Avila\source\repos\Projecto\bin\Debug\Projecto.xml
+C:\Users\Xander Avila\source\repos\Projecto\obj\Debug\Projecto.vbproj.AssemblyReference.cache
+C:\Users\Xander Avila\source\repos\Projecto\obj\Debug\Projecto.MainMenu.resources
+C:\Users\Xander Avila\source\repos\Projecto\obj\Debug\Projecto.CartForm.resources
+C:\Users\Xander Avila\source\repos\Projecto\obj\Debug\Projecto.Resources.resources
+C:\Users\Xander Avila\source\repos\Projecto\obj\Debug\Projecto.vbproj.GenerateResource.cache
+C:\Users\Xander Avila\source\repos\Projecto\obj\Debug\Projecto.vbproj.CoreCompileInputs.cache
+C:\Users\Xander Avila\source\repos\Projecto\obj\Debug\Projecto.exe
+C:\Users\Xander Avila\source\repos\Projecto\obj\Debug\Projecto.xml
+C:\Users\Xander Avila\source\repos\Projecto\obj\Debug\Projecto.pdb
+C:\Projecto\obj\Debug\Projecto.vbproj.AssemblyReference.cache
+C:\Projecto\obj\Debug\Projecto.AdminForm.resources
+C:\Projecto\obj\Debug\Projecto.LoginForm.resources
+C:\Projecto\obj\Debug\Projecto.MainMenu.resources
+C:\Projecto\obj\Debug\Projecto.CartForm.resources
+C:\Projecto\obj\Debug\Projecto.Resources.resources
+C:\Projecto\obj\Debug\Projecto.vbproj.GenerateResource.cache
+C:\Projecto\obj\Debug\Projecto.vbproj.CoreCompileInputs.cache
+C:\Projecto\bin\Debug\Inventory_Store.accdb
+C:\Projecto\bin\Debug\Projecto.exe.config
+C:\Projecto\bin\Debug\Projecto.exe
+C:\Projecto\bin\Debug\Projecto.pdb
+C:\Projecto\bin\Debug\Projecto.xml
+C:\Projecto\obj\Debug\Projecto.exe
+C:\Projecto\obj\Debug\Projecto.xml
+C:\Projecto\obj\Debug\Projecto.pdb
+C:\Projecto\obj\Debug\Projecto.RegisterForm.resources
+C:\Projecto\obj\Debug\Projecto.ReceiptForm.resources
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.AdminForm.resources
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.LoginForm.resources
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\obj\Debug\Projecto.ReceiptForm.resources
+C:\Users\Aleja\OneDrive\Documents\Universidad\Comp 3400\Projecto\bin\Debug\Inventory_Store.accdb
